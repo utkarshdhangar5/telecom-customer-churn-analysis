@@ -186,7 +186,7 @@ Very high daytime users appear to be highly price sensitive.
 The risk model can be used to identify customers requiring early intervention.
 
 ---
-
+```text
 telecom-customer-churn-analysis/
 │
 ├── data/
@@ -210,6 +210,7 @@ telecom-customer-churn-analysis/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Author
 
