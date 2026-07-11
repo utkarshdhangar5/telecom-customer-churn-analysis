@@ -165,6 +165,7 @@ The project includes a one-page executive dashboard providing:
 - Financial impact analysis
 - Interactive filtering using slicers
 
+[![Telecom Churn Dashboard](images/dashboard_preview.png)](images/dashboard_preview.png)
 ---
 
 ## Business Recommendations
